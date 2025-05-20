@@ -1,2 +1,2 @@
-
-requiremeents
+folium
+streamlit_folium
